@@ -1,5 +1,7 @@
 # Power-BI-Analysis-of-Sales-and-Availability-Across-Channels
 
+**Domain:**  Hospitality       **Function:** Revenue
+
 **Summary of the project**
 
 This report provides an in-depth analysis of sales and availability trends across different distribution channels in the hospitality industry. It leverages Power BI to visualize key metrics, enabling stakeholders to make data-driven decisions to optimize channel performance.
